@@ -1,74 +1,55 @@
 <div align="center">
-  
-  <img src="https://placehold.co/1500x300/1a1a1a/FFFFFF/png?text=NECOOKIE.DEV" alt="Cinematic Banner" width="100%" />
-
-  <br />
-  <br />
-
-  <a href="https://necookie.dev">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Hi,+I'm+Dheyn+(aka+Necookie).;Full+Stack+Developer+%26+Designer.;Building+aesthetics+and+functionality." alt="Typing Intro" />
-  </a>
-
-  <br />
-
-  <a href="https://necookie.dev">
-    <img src="https://img.shields.io/badge/Status-Open_for_Commissions-white?style=for-the-badge&logo=github&logoColor=1a1a1a&labelColor=white" alt="Status"/>
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Hello,%20I'm%20Dheyn&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Full%20Stack&descSize=20&descAlignY=65&fontColor=f8fafc" alt="Dheyn Header" width="100%"/>
 </div>
 
-<br />
-
-### 🎬 The Workflow
-
-I bridge the gap between **technical complexity** and **user experience**.
-
-* **Zero Friction:** Clear, honest, jargon-free communication.
-* **Detail Oriented:** From backend logic to the final pixel, I care about the *feel*.
-* **Reliable:** I respect deadlines and I respect your vision.
-
----
-
 <div align="center">
-
-### 🛠 Tech Stack
-
-<br />
-
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
-  
-  <br/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35"/>
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-  
+  <h3>👋 I turn complex logic into cinematic experiences.</h3>
   <p>
-    Ready to build something distinctive?
+    I'm <b>Dheyn Michael Orlanda</b> (aka Necookie). I am a developer who refuses to choose between <b>functionality</b> and <b>aesthetics</b>.<br>
+    I build systems that look as good as they run.
+  </p>
+  <p>
+    🎓 <b>3rd Year BSCS</b> @ Laguna State Polytechnic University
   </p>
 
-  <h3>
-    <a href="https://necookie.dev">
-      <img src="https://img.shields.io/badge/🌐_VISIT_NECOOKIE.DEV-1a1a1a?style=for-the-badge"/>
-    </a>
-  </h3>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-black?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="https://necookie.dev">
+    <img src="https://img.shields.io/badge/Portfolio-necookie.dev-white?style=flat-square&logo=googlechrome&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/dheyn-michael-orlanda-35b6b931b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+</div>
 
+<br>
+
+### 🚀 Live Deployments
+
+| **VersaDocs** | **PortraCV** | **Necookie Hub** |
+| :--- | :--- | :--- |
+| *AI Document SaaS* | *Workflow Automation* | *Personal Dashboard* |
+| [➡️ Launch App](https://versadocs.necookie.dev) | [➡️ Launch App](https://portracv.necookie.dev) | [➡️ Launch App](https://hub.necookie.dev) |
+
+<br>
+
+### 🛠️ The Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,tailwind,nodejs,postgres,supabase,docker,git,cloudflare,express,fastapi,vscode&theme=dark" />
+  </a>
+</div>
+
+<br>
+
+### 🤝 The Philosophy
+
+* **Code for Humans:** I write code for the *next* person (even if that person is me, 6 months later).
+* **System Thinking:** I don't just write functions; I design architectures that can handle growth.
+* **Solution Oriented:** I don't just patch bugs; I look for the root cause.
+* **Always Learning:** Currently diving deep into **DevOps Pipelines** and **AI Integration**.
+
+<br>
+
+<div align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
 </div>
