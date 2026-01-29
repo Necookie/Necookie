@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://via.placeholder.com/1500x300/1a1a1a/ffffff?text=+" alt="Cinematic Spacer" width="100%" />
+  <img src="https://placehold.co/1500x300/1a1a1a/FFFFFF/png?text=NECOOKIE.DEV" alt="Cinematic Banner" width="100%" />
 
   <br />
   <br />
