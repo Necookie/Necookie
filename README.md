@@ -32,9 +32,11 @@
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
+| [**Slotra PH**](https://github.com/SlotraPH/slotraph-official-monorepo) | `Astro` `React JS` | 🟢 Online |
 | [**VersaDocs**](https://versadocs.necookie.dev) | AI Document SaaS | `Next.js` `TS` `Groq` | 🟢 Online |
 | [**PortraCV**](https://portracv.necookie.dev) | Workflow Automation | `React` `FastAPI` | 🟢 Online |
 | [**Necookie Hub**](https://hub.necookie.dev) | Personal Dashboard | `Activity Feed` `AI` | 🟢 Online |
+
 
 <br/>
 
