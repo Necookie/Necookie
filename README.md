@@ -19,10 +19,6 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/ghibli_banner.png" width="100%" alt="Ghibli coding workspace" />
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Bouncing soot sprites" />
 </div>
 
@@ -315,9 +311,6 @@ Personal command center with AI-powered feeds and tool integrations.
 ```
 
 <div align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/ghibli_sprite.png" width="220" alt="Ghibli soot sprite coder" />
-<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=2000&color=008F11&background=0D0D0D00&center=true&vCenter=true&width=420&height=22&lines=Powered+by+caffeine+%E2%98%95+cats+%F0%9F%90%B1+and+ambition+%F0%9F%9A%80" alt="Footer" />
 <br/><br/>
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Soot sprites farewell" />
