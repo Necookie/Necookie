@@ -251,14 +251,18 @@ Personal command center with AI-powered feeds and tool integrations.
 ```
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Necookie/Necookie/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Necookie/Necookie/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Necookie/Necookie/output/github-contribution-grid-snake-dark.svg" width="98%" />
-  </picture>
-</div>
 
-> ⚡ *Snake auto-generates every 12h via GitHub Actions. To activate: **Actions → Generate Contribution Snake → Run workflow***.
+```
+ necookie@macbook ~/snake % STATUS: pending — output branch not yet created
+
+ [!] Go to: Actions → Generate Contribution Snake → Run workflow
+     The snake will appear here after the first successful run.
+     It auto-regenerates every 12h on push to main.
+```
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Necookie&theme=github_dark&utcOffset=8" width="98%" alt="Productive Time" />
+
+</div>
 
 ---
 
@@ -270,7 +274,7 @@ Personal command center with AI-powered feeds and tool integrations.
 ```
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Necookie&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark" width="48%" alt="Stats" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Necookie&theme=github_dark" width="48%" alt="Most Commit Language" />
 </div>
 
 ---
