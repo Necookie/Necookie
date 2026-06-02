@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# ── Required so the bot can push to the output branch ──────────
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
