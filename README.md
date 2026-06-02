@@ -32,10 +32,10 @@
                 `+oooo:              HOST    : necookie.dev
                `+oooooo:             KERNEL  : 21.0.0-lts
                -+oooooo+:            UPTIME  : 21 years, 0 reboots
-             `/:-:++oooo+:           ROLE    : AI Engineer · Founder
+             `/:-:++oooo+:           ROLE    : AI Engineer · Co-Founder
             `/++++/+++++++:          STACK   : Python · PyTorch · LangChain
            `/++++++++++++++:         FOCUS   : LLMs · RAG · AI SaaS
-          `/+++ooooooooooooo/`        COMPANY : DheKode (Founder)
+          `/+++ooooooooooooo/`        COMPANY : DheKode (Co-Founder)
          ./ooosssso++osssssso+`       EDITOR  : VSCode (nvim on weekends)
         .oossssso-    /ossssss+`      ──────────────────────────────
        -osssssso.      :ssssssso.     COFFEE  [██████████] 100% ☕
@@ -63,7 +63,7 @@
  export NAME="Dheyn Michael Orlanda"
  export ALIAS="Necookie 🍪"
  export LOCATION="Philippines 🇵🇭"
- export ROLE=("AI Engineer" "CS Student — 3rd Year" "Startup Founder @ DheKode")
+ export ROLE=("AI Engineer" "CS Student — 3rd Year" "Co-Founder @ DheKode")
 
  declare -a AI_BUILDING=(
    "LLM-powered SaaS products"
