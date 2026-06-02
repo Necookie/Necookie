@@ -15,12 +15,10 @@
 &nbsp;<img src="https://img.shields.io/badge/STATUS-BUILDING-008F11?style=flat-square&labelColor=0d0d0d" />
 &nbsp;<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00FF41?style=flat-square&labelColor=0d0d0d" />
 </p>
-
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Bouncing soot sprites" />
-
 </div>
 
-```
+```text
   🔴  🟡  🟢   necookie@macbook — neofetch — zsh
  ─────────────────────────────────────────────────────────────────
 
@@ -53,9 +51,13 @@
 &nbsp;<a href="mailto:dheyn.main@gmail.com"><img src="https://img.shields.io/badge/Gmail-say_hi-008F11?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
 &nbsp;<a href="https://instagram.com/nkm_119/"><img src="https://img.shields.io/badge/@nkm__119-ig-00FF41?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
 
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Soot sprites" />
+</div>
 
-**[ PROJECTS ]**
+```text
+  🔴  🟡  🟢   necookie@macbook — ls ~/projects — zsh
+ ─────────────────────────────────────────────────────────────────
+```
+
 <table width="100%"><tr>
 <td width="50%"><b>versadocs.necookie.dev</b><br/>AI Document SaaS (Groq · RAG)<br/><br/><a href="https://versadocs.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="versadocs"/></a></td>
 <td width="50%"><b>portracv.necookie.dev</b><br/>AI Resume & CV Builder<br/><br/><a href="https://portracv.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="portracv"/></a></td>
@@ -64,20 +66,42 @@
 <td width="50%"><b>hub.necookie.dev</b><br/>AI Personal Dashboard<br/><br/><a href="https://hub.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="hub"/></a></td>
 </tr></table>
 
+```text
+  🔴  🟡  🟢   necookie@macbook — cat /etc/tech-stack.conf — zsh
+ ─────────────────────────────────────────────────────────────────
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=11" />
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura petals" />
 
-**[ TECH STACK ]**<br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=11" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Soot sprites" />
+```text
+  🔴  🟡  🟢   necookie@macbook — htop — github_stats
+ ─────────────────────────────────────────────────────────────────
+```
 
-**[ STATS ]**<br/>
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necookie&theme=github_dark" width="98%" />
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark" width="32%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=github_dark" width="32%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Necookie&theme=github_dark" width="32%" />
 <br/>
 <img src="https://streak-stats.demolab.com/?user=Necookie&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=008F11&currStreakNum=00FF41&sideNums=008F11&dates=008F11&border=00FF41&border_radius=6&stroke=0d0d0d" width="48%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Necookie&theme=github_dark&utcOffset=8" width="48%" />
 
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura petals" />
+<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Soot sprites" />
+
+</div>
+
+```text
+  🔴  🟡  🟢   necookie@macbook — exit — zsh
+ ─────────────────────────────────────────────────────────────────
+  > "Build LLMs. Ship products. Repeat until profitable." 🚀
+  [Process completed]
+```
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=2000&color=008F11&background=0D0D0D00&center=true&vCenter=true&width=420&height=22&lines=Powered+by+caffeine+%E2%98%95+cats+%F0%9F%90%B1+and+ambition+%F0%9F%9A%80" />
 </div>
