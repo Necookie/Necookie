@@ -57,11 +57,11 @@
 
 **[ PROJECTS ]**
 <table width="100%"><tr>
-<td width="50%"><b>versadocs.necookie.dev</b><br/>AI Document SaaS (Groq · RAG)<br/><br/>[![versadocs](https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d)](https://versadocs.necookie.dev)</td>
-<td width="50%"><b>portracv.necookie.dev</b><br/>AI Resume & CV Builder<br/><br/>[![portracv](https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d)](https://portracv.necookie.dev)</td>
+<td width="50%"><b>versadocs.necookie.dev</b><br/>AI Document SaaS (Groq · RAG)<br/><br/><a href="https://versadocs.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="versadocs"/></a></td>
+<td width="50%"><b>portracv.necookie.dev</b><br/>AI Resume & CV Builder<br/><br/><a href="https://portracv.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="portracv"/></a></td>
 </tr><tr>
-<td width="50%"><b>SlotraPH Platform</b><br/>Startup Platform (Astro · React)<br/><br/>[![slotra](https://img.shields.io/badge/→_Repo-008F11?style=flat-square&labelColor=0d0d0d)](https://github.com/SlotraPH/slotraph-official-monorepo)</td>
-<td width="50%"><b>hub.necookie.dev</b><br/>AI Personal Dashboard<br/><br/>[![hub](https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d)](https://hub.necookie.dev)</td>
+<td width="50%"><b>SlotraPH Platform</b><br/>Startup Platform (Astro · React)<br/><br/><a href="https://github.com/SlotraPH/slotraph-official-monorepo"><img src="https://img.shields.io/badge/→_Repo-008F11?style=flat-square&labelColor=0d0d0d" alt="slotra"/></a></td>
+<td width="50%"><b>hub.necookie.dev</b><br/>AI Personal Dashboard<br/><br/><a href="https://hub.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="hub"/></a></td>
 </tr></table>
 
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura petals" />
