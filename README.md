@@ -20,25 +20,25 @@
 
 ```text
   🔴  🟡  🟢   necookie@macbook — neofetch — zsh
- ─────────────────────────────────────────────────────────────────
+ ─────────────────────────────────────────────────────────────────────────────────────────────
 
-                   -`                necookie@macbook
-                  .o+`               ──────────────────────────────
-                 `ooo/               ROLE    : AI Engineer · CS Student
-                `+oooo:              COMPANY : DheKode (Co-Founder)
-               `+oooooo:             STACK   : Python · PyTorch · Next.js
-               -+oooooo+:            FOCUS   : LLMs · RAG · AI SaaS
-             `/:-:++oooo+:           
-            `/++++/+++++++:          [OK] LLM inference ............. running
-           `/++++++++++++++:         [OK] RAG pipeline .............. indexed
-          `/+++ooooooooooooo/`       [OK] Caffeine daemon ........... critical
-         ./ooosssso++osssssso+`      
-        .oossssso-    /ossssss+`     COFFEE  [██████████] 100% ☕
-       -osssssso.      :ssssssso.    SLEEP   [▒▒▒▒▒▒▒▒▒▒]   0% 💀
-      :osssssss/        osssso+++.   ANIME   [███████░░░]  73% 🍥
-     /ossssssss/        +ssssooo/-   SHIPS   [██████████] 100% 🚀
-   `/ossssso+/:-        -:/+osssso+-  
-  `+sso+:-`                 `.-/+oso:
+                   -`                necookie@macbook               [ HARDWARE OVERVIEW ]
+                  .o+`               ─────────────────────────────  ┌──────────────────────┐
+                 `ooo/               ROLE    : AI Engineer          │ CPU  : Apple M2 Max  │
+                `+oooo:              COMPANY : DheKode (Co-Found.)  │ MEM  : 32.5 / 64GB   │
+               `+oooooo:             STACK   : Python · PyTorch     │ GPU  : 38-core GPU   │
+               -+oooooo+:            FOCUS   : LLMs · AI SaaS       │ DISK : 1.2 / 2.0TB   │
+             `/:-:++oooo+:                                          │ TEMP : 42°C (STABLE) │
+            `/++++/+++++++:          [OK] LLM Inference ... running └──────────────────────┘
+           `/++++++++++++++:         [OK] RAG Pipeline .... indexed 
+          `/+++ooooooooooooo/`       [OK] Caffeine Daemon . critial [ ACTIVE WORKLOADS ]
+         ./ooosssso++osssssso+`                                     > training_run_v4.pt
+        .oossssso-    /ossssss+`     COFFEE  [██████████] 100% ☕    > vector_db_sync
+       -osssssso.      :ssssssso.    SLEEP   [▒▒▒▒▒▒▒▒▒▒]   0% 💀    > api_gateway_prod
+      :osssssss/        osssso+++.   ANIME   [███████░░░]  73% 🍥    > nextjs_build_watch
+     /ossssssss/        +ssssooo/-   SHIPS   [██████████] 100% 🚀    ──────────────────────
+   `/ossssso+/:-        -:/+osssso+-                                 uptime : 21 yrs, 0 mos
+  `+sso+:-`                 `.-/+oso:                               status : optimal
  `++:.                           `-/+/
  .`                                 `/
 ```
