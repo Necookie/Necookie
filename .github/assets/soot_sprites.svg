@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90">
+  <defs>
+    <radialGradient id="sg" cx="35%" cy="28%" r="72%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="55%" stop-color="#1c1c1c"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </radialGradient>
+    <radialGradient id="sg2" cx="40%" cy="30%" r="68%">
+      <stop offset="0%" stop-color="#4a4a4a"/>
+      <stop offset="60%" stop-color="#222"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </radialGradient>
+    <filter id="fuzz">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <style>
+    @keyframes b0{0%,100%{transform:translateY(0)scaleX(1)scaleY(1)}45%{transform:translateY(-24px)scaleX(1.05)scaleY(0.95)}50%{transform:translateY(-28px)}55%{transform:translateY(-24px)scaleX(0.95)scaleY(1.05)}}
+    @keyframes b1{0%,100%{transform:translateY(0)scaleX(1)scaleY(1)}45%{transform:translateY(-18px)scaleX(1.08)scaleY(0.92)}50%{transform:translateY(-22px)}55%{transform:translateY(-18px)scaleX(0.92)scaleY(1.08)}}
+    @keyframes b2{0%,100%{transform:translateY(0)}45%{transform:translateY(-30px)scaleX(1.05)scaleY(0.95)}50%{transform:translateY(-34px)}55%{transform:translateY(-30px)scaleX(0.95)scaleY(1.05)}}
+    @keyframes b3{0%,100%{transform:translateY(0)}45%{transform:translateY(-16px)}50%{transform:translateY(-20px)}55%{transform:translateY(-16px)}}
+    @keyframes b4{0%,100%{transform:translateY(0)}45%{transform:translateY(-26px)}50%{transform:translateY(-30px)}55%{transform:translateY(-26px)}}
+    @keyframes b5{0%,100%{transform:translateY(0)}45%{transform:translateY(-12px)}50%{transform:translateY(-15px)}55%{transform:translateY(-12px)}}
+    @keyframes b6{0%,100%{transform:translateY(0)}45%{transform:translateY(-22px)}50%{transform:translateY(-26px)}55%{transform:translateY(-22px)}}
+    @keyframes b7{0%,100%{transform:translateY(0)}45%{transform:translateY(-20px)}50%{transform:translateY(-24px)}55%{transform:translateY(-20px)}}
+    @keyframes b8{0%,100%{transform:translateY(0)}45%{transform:translateY(-28px)}50%{transform:translateY(-32px)}55%{transform:translateY(-28px)}}
+    @keyframes b9{0%,100%{transform:translateY(0)}45%{transform:translateY(-18px)}50%{transform:translateY(-22px)}55%{transform:translateY(-18px)}}
+    @keyframes twinkle{0%,100%{opacity:0.3;transform:scale(0.6)rotate(0deg)}50%{opacity:1;transform:scale(1.2)rotate(180deg)}}
+    @keyframes glow{0%,100%{filter:drop-shadow(0 0 3px #FFD70088)}50%{filter:drop-shadow(0 0 8px #FFD700cc)}}
+
+    .sp0{animation:b0 1.85s cubic-bezier(.36,.07,.19,.97) infinite}
+    .sp1{animation:b1 2.10s cubic-bezier(.36,.07,.19,.97) infinite 0.32s}
+    .sp2{animation:b2 1.60s cubic-bezier(.36,.07,.19,.97) infinite 0.75s}
+    .sp3{animation:b3 2.30s cubic-bezier(.36,.07,.19,.97) infinite 0.15s}
+    .sp4{animation:b4 1.95s cubic-bezier(.36,.07,.19,.97) infinite 0.55s}
+    .sp5{animation:b5 2.05s cubic-bezier(.36,.07,.19,.97) infinite 0.90s}
+    .sp6{animation:b6 1.72s cubic-bezier(.36,.07,.19,.97) infinite 0.40s}
+    .sp7{animation:b7 2.20s cubic-bezier(.36,.07,.19,.97) infinite 0.62s}
+    .sp8{animation:b8 1.55s cubic-bezier(.36,.07,.19,.97) infinite 0.22s}
+    .sp9{animation:b9 2.40s cubic-bezier(.36,.07,.19,.97) infinite 0.82s}
+    .star{animation:twinkle 1.6s ease-in-out infinite;fill:#FFD700}
+    .starg{animation:glow 1.6s ease-in-out infinite}
+  </style>
+
+  <!-- sp0: medium sprite -->
+  <g class="sp0" filter="url(#fuzz)">
+    <circle cx="55" cy="68" r="16" fill="url(#sg)"/>
+    <circle cx="50" cy="62" r="3.8" fill="white"/>
+    <circle cx="60" cy="62" r="3.8" fill="white"/>
+    <circle cx="51" cy="62.5" r="1.8" fill="#111"/>
+    <circle cx="61" cy="62.5" r="1.8" fill="#111"/>
+  </g>
+
+  <!-- sp1: large sprite with star -->
+  <g class="sp1" filter="url(#fuzz)">
+    <circle cx="160" cy="63" r="22" fill="url(#sg2)"/>
+    <circle cx="153" cy="55" r="5.2" fill="white"/>
+    <circle cx="167" cy="55" r="5.2" fill="white"/>
+    <circle cx="154.5" cy="55.5" r="2.5" fill="#111"/>
+    <circle cx="168.5" cy="55.5" r="2.5" fill="#111"/>
+    <g class="starg" transform="translate(178, 42)">
+      <text font-size="14" class="star" style="animation-delay:0.3s">★</text>
+    </g>
+  </g>
+
+  <!-- sp2: small sprite -->
+  <g class="sp2" filter="url(#fuzz)">
+    <circle cx="255" cy="73" r="11" fill="url(#sg)"/>
+    <circle cx="251" cy="68" r="2.5" fill="white"/>
+    <circle cx="259" cy="68" r="2.5" fill="white"/>
+    <circle cx="252" cy="68.5" r="1.1" fill="#111"/>
+    <circle cx="260" cy="68.5" r="1.1" fill="#111"/>
+  </g>
+
+  <!-- sp3: medium sprite -->
+  <g class="sp3" filter="url(#fuzz)">
+    <circle cx="345" cy="67" r="17" fill="url(#sg2)"/>
+    <circle cx="339" cy="60" r="4" fill="white"/>
+    <circle cx="351" cy="60" r="4" fill="white"/>
+    <circle cx="340" cy="60.5" r="1.9" fill="#111"/>
+    <circle cx="352" cy="60.5" r="1.9" fill="#111"/>
+  </g>
+
+  <!-- sp4: large sprite -->
+  <g class="sp4" filter="url(#fuzz)">
+    <circle cx="450" cy="62" r="24" fill="url(#sg)"/>
+    <circle cx="442" cy="53" r="5.8" fill="white"/>
+    <circle cx="458" cy="53" r="5.8" fill="white"/>
+    <circle cx="443.5" cy="53.5" r="2.8" fill="#111"/>
+    <circle cx="459.5" cy="53.5" r="2.8" fill="#111"/>
+    <g class="starg" transform="translate(468, 40)">
+      <text font-size="16" class="star" style="animation-delay:0.8s">✦</text>
+    </g>
+  </g>
+
+  <!-- sp5: tiny sprite -->
+  <g class="sp5" filter="url(#fuzz)">
+    <circle cx="540" cy="75" r="9" fill="url(#sg2)"/>
+    <circle cx="537" cy="71" r="2" fill="white"/>
+    <circle cx="543" cy="71" r="2" fill="white"/>
+    <circle cx="537.5" cy="71.5" r="0.9" fill="#111"/>
+    <circle cx="543.5" cy="71.5" r="0.9" fill="#111"/>
+  </g>
+
+  <!-- sp6: medium sprite with glowing star -->
+  <g class="sp6" filter="url(#fuzz)">
+    <circle cx="635" cy="66" r="15" fill="url(#sg)"/>
+    <circle cx="629" cy="60" r="3.5" fill="white"/>
+    <circle cx="641" cy="60" r="3.5" fill="white"/>
+    <circle cx="630" cy="60.5" r="1.6" fill="#111"/>
+    <circle cx="642" cy="60.5" r="1.6" fill="#111"/>
+    <g class="starg" transform="translate(646, 50)">
+      <text font-size="11" class="star" style="animation-delay:1.1s;fill:#aef">✦</text>
+    </g>
+  </g>
+
+  <!-- sp7: large sprite -->
+  <g class="sp7" filter="url(#fuzz)">
+    <circle cx="730" cy="64" r="20" fill="url(#sg2)"/>
+    <circle cx="723" cy="56" r="4.8" fill="white"/>
+    <circle cx="737" cy="56" r="4.8" fill="white"/>
+    <circle cx="724.5" cy="56.5" r="2.2" fill="#111"/>
+    <circle cx="738.5" cy="56.5" r="2.2" fill="#111"/>
+  </g>
+
+  <!-- sp8: medium sprite -->
+  <g class="sp8" filter="url(#fuzz)">
+    <circle cx="820" cy="66" r="14" fill="url(#sg)"/>
+    <circle cx="815" cy="60" r="3.2" fill="white"/>
+    <circle cx="825" cy="60" r="3.2" fill="white"/>
+    <circle cx="816" cy="60.5" r="1.4" fill="#111"/>
+    <circle cx="826" cy="60.5" r="1.4" fill="#111"/>
+  </g>
+
+  <!-- sp9: large sprite with star -->
+  <g class="sp9" filter="url(#fuzz)">
+    <circle cx="875" cy="63" r="19" fill="url(#sg2)"/>
+    <circle cx="868" cy="55" r="4.5" fill="white"/>
+    <circle cx="882" cy="55" r="4.5" fill="white"/>
+    <circle cx="869.5" cy="55.5" r="2.1" fill="#111"/>
+    <circle cx="883.5" cy="55.5" r="2.1" fill="#111"/>
+    <g class="starg" transform="translate(890, 44)">
+      <text font-size="13" class="star" style="animation-delay:0.5s">★</text>
+    </g>
+  </g>
+</svg>
