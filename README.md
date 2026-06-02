@@ -16,6 +16,7 @@
 &nbsp;<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00FF41?style=flat-square&labelColor=0d0d0d" />
 </p>
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Bouncing soot sprites" />
+<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura storm" />
 </div>
 
 ```text
@@ -92,6 +93,7 @@
 <img src="https://streak-stats.demolab.com/?user=Necookie&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=008F11&currStreakNum=00FF41&sideNums=008F11&dates=008F11&border=00FF41&border_radius=6&stroke=0d0d0d" width="48%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Necookie&theme=github_dark&utcOffset=8" width="48%" />
 
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Soot sprites" />
+<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura storm" />
 
 </div>
 
