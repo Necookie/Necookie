@@ -101,6 +101,7 @@
   🔴  🟡  🟢   necookie@macbook — exit — zsh
  ─────────────────────────────────────────────────────────────────
   > "Build LLMs. Ship products. Repeat until profitable." 🚀
+  > current thesis: Minecraft as a Platform for AI-Enhanced Disaster Risk Simulation and Adaptive Educational Preparedness. type shit
   [Process completed]
 ```
 
