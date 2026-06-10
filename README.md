@@ -25,11 +25,11 @@
 
                    -`                necookie@macbook               [ HARDWARE OVERVIEW ]
                   .o+`               ─────────────────────────────  ┌──────────────────────┐
-                 `ooo/               ROLE    : AI Engineer          │ CPU  : Apple M2 Max  │
-                `+oooo:              COMPANY : DheKode (Co-Found.)  │ MEM  : 32.5 / 64GB   │
-               `+oooooo:             STACK   : Python · PyTorch     │ GPU  : 38-core GPU   │
-               -+oooooo+:            FOCUS   : LLMs · AI SaaS       │ DISK : 1.2 / 2.0TB   │
-             `/:-:++oooo+:                                          │ TEMP : 42°C (STABLE) │
+                 `ooo/               NAME    : Dheyn Michael Orlanda│ CPU  : Apple M2 Max  │
+                `+oooo:              ROLE    : AI Engineer          │ MEM  : 32.5 / 64GB   │
+               `+oooooo:             COMPANY : DheKode (Co-Found.)  │ GPU  : 38-core GPU   │
+               -+oooooo+:            STACK   : Python · PyTorch     │ DISK : 1.2 / 2.0TB   │
+             `/:-:++oooo+:           FOCUS   : LLMs · AI SaaS       │ TEMP : 42°C (STABLE) │
             `/++++/+++++++:          [OK] LLM Inference ... running └──────────────────────┘
            `/++++++++++++++:         [OK] RAG Pipeline .... indexed 
           `/+++ooooooooooooo/`       [OK] Caffeine Daemon . critial [ ACTIVE WORKLOADS ]
