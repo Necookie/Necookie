@@ -66,9 +66,13 @@
 ### GitHub stats
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark" width="46%">
+  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Necookie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   &nbsp;
-  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=github_dark" width="46%">
+  <img alt="GitHub streak" height="170" src="https://streak-stats.demolab.com?user=Necookie&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necookie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
