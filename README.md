@@ -87,6 +87,8 @@
   <img width="98%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Necookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
 
----
+### Dev quote of the day
 
-<p align="center"><i>Powered by caffeine ☕ and curiosity.</i></p>
+<p align="center">
+  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
