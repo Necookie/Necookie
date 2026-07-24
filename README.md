@@ -15,6 +15,9 @@
 &nbsp;<img src="https://img.shields.io/badge/STATUS-BUILDING-008F11?style=flat-square&labelColor=0d0d0d" />
 &nbsp;<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00FF41?style=flat-square&labelColor=0d0d0d" />
 </p>
+
+<sub>AI engineer, 21, based in the Philippines. Co-founder @ DheKode. I build LLM products and tend to ship them before they're ready.</sub>
+
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Bouncing soot sprites" />
 <img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura storm" />
 </div>
