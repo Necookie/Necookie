@@ -32,7 +32,7 @@
              `/:-:++oooo+:           FOCUS   : LLMs · AI SaaS       │ TEMP : 42°C (STABLE) │
             `/++++/+++++++:          [OK] LLM Inference ... running └──────────────────────┘
            `/++++++++++++++:         [OK] RAG Pipeline .... indexed 
-          `/+++ooooooooooooo/`       [OK] Caffeine Daemon . critial [ ACTIVE WORKLOADS ]
+          `/+++ooooooooooooo/`       [OK] Caffeine Daemon. critical [ ACTIVE WORKLOADS ]
          ./ooosssso++osssssso+`                                     > training_run_v4.pt
         .oossssso-    /ossssss+`     COFFEE  [██████████] 100% ☕    > vector_db_sync
        -osssssso.      :ssssssso.    SLEEP   [▒▒▒▒▒▒▒▒▒▒]   0% 💀    > api_gateway_prod
