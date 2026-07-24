@@ -38,27 +38,24 @@
 
 <table width="100%">
   <tr>
-    <td width="47%" valign="top" align="center">
+    <td width="50%" valign="top">
       <b>VersaDocs</b><br/>
       AI document SaaS — Groq · RAG<br/><br/>
       <a href="https://versadocs.necookie.dev"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2EA44F?style=flat-square&logo=vercel&logoColor=white"></a>
     </td>
-    <td width="6%"></td>
-    <td width="47%" valign="top" align="center">
+    <td width="50%" valign="top">
       <b>PortraCV</b><br/>
       AI resume &amp; CV builder<br/><br/>
       <a href="https://portracv.necookie.dev"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2EA44F?style=flat-square&logo=vercel&logoColor=white"></a>
     </td>
   </tr>
-  <tr><td colspan="3" height="18"></td></tr>
   <tr>
-    <td width="47%" valign="top" align="center">
+    <td width="50%" valign="top">
       <b>SlotraPH</b><br/>
       Startup platform — Astro · React<br/><br/>
       <a href="https://github.com/SlotraPH/slotraph-official-monorepo"><img alt="Source" src="https://img.shields.io/badge/Source-0969DA?style=flat-square&logo=github&logoColor=white"></a>
     </td>
-    <td width="6%"></td>
-    <td width="47%" valign="top" align="center">
+    <td width="50%" valign="top">
       <b>Hub</b><br/>
       AI personal dashboard<br/><br/>
       <a href="https://hub.necookie.dev"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2EA44F?style=flat-square&logo=vercel&logoColor=white"></a>
