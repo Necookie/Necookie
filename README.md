@@ -92,3 +92,5 @@
 <p align="center">
   <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&text=Thanks%20for%20visiting!%20☕&fontSize=18&fontColor=ffffff&fontAlignY=75" />
