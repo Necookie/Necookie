@@ -81,6 +81,12 @@
   <img width="98%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Necookie&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity" />
 </p>
 
+### Trophies
+
+<p align="center">
+  <img width="98%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Necookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
+
 ---
 
 <p align="center"><i>Powered by caffeine ☕ and curiosity.</i></p>
