@@ -1,11 +1,11 @@
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--     NECOOKIE • AI ENGINEER — MAC TERMINAL EDITION          -->
+<!--     NECOOKIE • AI ENGINEER — WINDOWS TERMINAL EDITION       -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 <!-- ── MATRIX TYPING ANIMATION ─────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=600&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=780&height=40&lines=%5BBOOT%5D+Loading+necookie.sh+...;necookie%40macbook+~+%25+whoami+%E2%86%92+AI+Engineer;necookie%40macbook+~+%25+python+train.py+--epochs%3D%E2%88%9E;necookie%40macbook+~+%25+curl+api.groq.com+%7C+jq+.response;necookie%40macbook+~+%25+git+push+origin+main+--force-with-lease;%5BACCESS+GRANTED%5D+Welcome+to+my+terminal.+%F0%9F%8D%AA" alt="Matrix Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=600&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=780&height=40&lines=%5BBOOT%5D+Loading+necookie.sh+...;necookie%40latitude+~+%3E+whoami+%E2%86%92+AI+Engineer;necookie%40latitude+~+%3E+python+train.py+--epochs%3D%E2%88%9E;necookie%40latitude+~+%3E+curl+api.groq.com+%7C+jq+.response;necookie%40latitude+~+%3E+git+push+origin+main+--force-with-lease;%5BACCESS+GRANTED%5D+Welcome+to+my+terminal.+%F0%9F%8D%AA" alt="Matrix Typing" />
 
 <!-- ── BADGE ROW ─────────────────────────────────────────────── -->
 <p>
@@ -23,28 +23,25 @@
 </div>
 
 ```text
-  🔴  🟡  🟢   necookie@macbook — neofetch — zsh
+  🔴  🟡  🟢   necookie@latitude — neofetch — pwsh
  ─────────────────────────────────────────────────────────────────────────────────────────────
 
-                   -`                necookie@macbook               [ HARDWARE OVERVIEW ]
-                  .o+`               ─────────────────────────────  ┌──────────────────────┐
-                 `ooo/               NAME    : Dheyn Michael Orlanda│ CPU  : Apple M2 Max  │
-                `+oooo:              ROLE    : AI Engineer          │ MEM  : 32.5 / 64GB   │
-               `+oooooo:             COMPANY : DheKode (Co-Found.)  │ GPU  : 38-core GPU   │
-               -+oooooo+:            STACK   : Python · PyTorch     │ DISK : 1.2 / 2.0TB   │
-             `/:-:++oooo+:           FOCUS   : LLMs · AI SaaS       │ TEMP : 42°C (STABLE) │
-            `/++++/+++++++:          [OK] LLM Inference ... running └──────────────────────┘
-           `/++++++++++++++:         [OK] RAG Pipeline .... indexed 
-          `/+++ooooooooooooo/`       [OK] Caffeine Daemon. critical [ ACTIVE WORKLOADS ]
-         ./ooosssso++osssssso+`                                     > training_run_v4.pt
-        .oossssso-    /ossssss+`     COFFEE  [██████████] 100% ☕    > vector_db_sync
-       -osssssso.      :ssssssso.    SLEEP   [▒▒▒▒▒▒▒▒▒▒]   0% 💀    > api_gateway_prod
-      :osssssss/        osssso+++.   ANIME   [███████░░░]  73% 🍥    > nextjs_build_watch
-     /ossssssss/        +ssssooo/-   SHIPS   [██████████] 100% 🚀    ──────────────────────
-   `/ossssso+/:-        -:/+osssso+-                                 uptime : 21 yrs, 0 mos
-  `+sso+:-`                 `.-/+oso:                               status : optimal
- `++:.                           `-/+/
- .`                                 `/
+                                     necookie@latitude              [ HARDWARE OVERVIEW ]
+   ██████████████   ██████████████   ─────────────────────────────  ┌──────────────────────┐
+   ██████████████   ██████████████   NAME    : Dheyn Michael Orlanda│ CPU  : i5 · 11th Gen │
+   ██████████████   ██████████████   ROLE    : AI Engineer          │ MEM  : 16GB DDR4     │
+   ██████████████   ██████████████   COMPANY : DheKode (Co-Found.)  │ GPU  : Intel Iris Xe │
+   ██████████████   ██████████████   STACK   : Python · PyTorch     │ DISK : 1TB SSD       │
+   ██████████████   ██████████████   FOCUS   : LLMs · AI SaaS       │ TEMP : 42°C (stable) │
+                                     [OK] LLM Inference ... running └──────────────────────┘
+   ██████████████   ██████████████   [OK] RAG Pipeline .... indexed
+   ██████████████   ██████████████   [OK] Caffeine Daemon. critical [ SERVER · acer ]
+   ██████████████   ██████████████                                  > Ubuntu Live Server
+   ██████████████   ██████████████   COFFEE  [██████████] 100% ☕    > Ryzen 5 7000U · 8GB
+   ██████████████   ██████████████   SLEEP   [▒▒▒▒▒▒▒▒▒▒]   0% 💀    > headless · homelab
+   ██████████████   ██████████████   ANIME   [███████░░░]  73% 🍥    ──────────────────────
+                                     SHIPS   [██████████] 100% 🚀    uptime : 21 yrs, 0 mos
+                                                                    status : optimal
 ```
 
 <div align="center">
@@ -58,7 +55,7 @@
 </div>
 
 ```text
-  🔴  🟡  🟢   necookie@macbook — ls ~/projects — zsh
+  🔴  🟡  🟢   necookie@latitude — ls ~/projects — pwsh
  ─────────────────────────────────────────────────────────────────
 ```
 
@@ -71,7 +68,7 @@
 </tr></table>
 
 ```text
-  🔴  🟡  🟢   necookie@macbook — cat /etc/tech-stack.conf — zsh
+  🔴  🟡  🟢   necookie@latitude — cat /etc/tech-stack.conf — pwsh
  ─────────────────────────────────────────────────────────────────
 ```
 
@@ -82,7 +79,7 @@
 </div>
 
 ```text
-  🔴  🟡  🟢   necookie@macbook — htop — github_stats
+  🔴  🟡  🟢   necookie@latitude — htop — github_stats
  ─────────────────────────────────────────────────────────────────
 ```
 
@@ -97,7 +94,7 @@
 </div>
 
 ```text
-  🔴  🟡  🟢   necookie@macbook — exit — zsh
+  🔴  🟡  🟢   necookie@latitude — exit — pwsh
  ─────────────────────────────────────────────────────────────────
   > "Build LLMs. Ship products. Repeat until profitable." 🚀
   > thesis: Minecraft as a platform for AI-enhanced disaster-risk simulation and adaptive educational preparedness.
