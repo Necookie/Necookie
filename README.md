@@ -75,7 +75,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=11" />
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura petals" />
 
 </div>
 
