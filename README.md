@@ -1,9 +1,9 @@
 <!-- Profile README — theme-friendly (works in both light & dark mode) -->
 
-<h1 align="center">Hi, I'm Dheyn 👋</h1>
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Dheyn%20👋&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20building%20LLM%20products%20·%20co-founder%20@%20DheKode&descSize=16&descAlignY=58" />
 
 <p align="center">
-  <b>AI Engineer</b> &nbsp;·&nbsp; building LLM products &nbsp;·&nbsp; co-founder @ DheKode
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Necookie&label=Profile%20views&color=2575fc&style=flat" />
 </p>
 
 <p align="center">
