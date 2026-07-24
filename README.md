@@ -27,10 +27,7 @@
 ### Tech stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=10">
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=light&perline=10">
-  </picture>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=10">
 </p>
 
 ### Projects
@@ -65,15 +62,9 @@
 ### GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark">
-    <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=default" width="46%">
-  </picture>
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark" width="46%">
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=github_dark">
-    <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=default" width="46%">
-  </picture>
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=github_dark" width="46%">
 </p>
 
 ---
