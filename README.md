@@ -1,106 +1,81 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--     NECOOKIE • AI ENGINEER — WINDOWS TERMINAL EDITION       -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- Profile README — theme-friendly (works in both light & dark mode) -->
 
-<div align="center">
+<h1 align="center">Hi, I'm Dheyn 👋</h1>
 
-<!-- ── MATRIX TYPING ANIMATION ─────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2200&pause=600&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=780&height=40&lines=%5BBOOT%5D+Loading+necookie.sh+...;necookie%40latitude+~+%3E+whoami+%E2%86%92+AI+Engineer;necookie%40latitude+~+%3E+python+train.py+--epochs%3D%E2%88%9E;necookie%40latitude+~+%3E+curl+api.groq.com+%7C+jq+.response;necookie%40latitude+~+%3E+git+push+origin+main+--force-with-lease;%5BACCESS+GRANTED%5D+Welcome+to+my+terminal.+%F0%9F%8D%AA" alt="Matrix Typing" />
-
-<!-- ── BADGE ROW ─────────────────────────────────────────────── -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=Necookie&style=flat-square&color=00FF41&label=VISITORS&abbreviated=true&labelColor=0d0d0d" />
-&nbsp;<img src="https://img.shields.io/github/followers/Necookie?label=FOLLOWERS&style=flat-square&color=00FF41&labelColor=0d0d0d&logo=github&logoColor=00FF41" />
-&nbsp;<img src="https://img.shields.io/badge/ROLE-AI%20Engineer-00FF41?style=flat-square&labelColor=0d0d0d" />
-&nbsp;<img src="https://img.shields.io/badge/STATUS-BUILDING-008F11?style=flat-square&labelColor=0d0d0d" />
-&nbsp;<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-00FF41?style=flat-square&labelColor=0d0d0d" />
+<p align="center">
+  <b>AI Engineer</b> &nbsp;·&nbsp; building LLM products &nbsp;·&nbsp; co-founder @ DheKode
 </p>
 
-<sub>AI engineer, 21, based in the Philippines. Co-founder @ DheKode. I build LLM products and tend to ship them before they're ready.</sub>
+<p align="center">
+  <a href="https://necookie.dev"><img alt="Website" src="https://img.shields.io/badge/Website-necookie.dev-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dheyn-michael-orlanda-35b6b931b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dheyn.main@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/nkm_119/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/soot_sprites.svg" width="100%" alt="Bouncing soot sprites" />
-<img src="https://raw.githubusercontent.com/Necookie/Necookie/main/.github/assets/sakura.svg" width="100%" alt="Sakura storm" />
-</div>
+---
 
-```text
-  🔴  🟡  🟢   necookie@latitude — neofetch — pwsh
- ─────────────────────────────────────────────────────────────────────────────────────────────
+### About me
 
-                                     necookie@latitude              [ HARDWARE OVERVIEW ]
-   ██████████████   ██████████████   ─────────────────────────────  ┌──────────────────────┐
-   ██████████████   ██████████████   NAME    : Dheyn Michael Orlanda│ CPU  : i5 · 11th Gen │
-   ██████████████   ██████████████   ROLE    : AI Engineer          │ MEM  : 16GB DDR4     │
-   ██████████████   ██████████████   COMPANY : DheKode (Co-Found.)  │ GPU  : Intel Iris Xe │
-   ██████████████   ██████████████   STACK   : Python · PyTorch     │ DISK : 1TB SSD       │
-   ██████████████   ██████████████   FOCUS   : LLMs · AI SaaS       │ TEMP : 42°C (stable) │
-                                     [OK] LLM Inference ... running └──────────────────────┘
-   ██████████████   ██████████████   [OK] RAG Pipeline .... indexed
-   ██████████████   ██████████████   [OK] Caffeine Daemon. critical [ SERVER · acer ]
-   ██████████████   ██████████████                                  > Ubuntu Live Server
-   ██████████████   ██████████████   COFFEE  [██████████] 100% ☕    > Ryzen 5 7000U · 8GB
-   ██████████████   ██████████████   SLEEP   [▒▒▒▒▒▒▒▒▒▒]   0% 💀    > headless · homelab
-   ██████████████   ██████████████   ANIME   [███████░░░]  73% 🍥    ──────────────────────
-                                     SHIPS   [██████████] 100% 🚀    uptime : 21 yrs, 0 mos
-                                                                    status : optimal
-```
+- 🤖 &nbsp;AI engineer focused on **LLMs** and **AI SaaS**
+- 🧑‍💻 &nbsp;Co-founder @ **DheKode**
+- 🌏 &nbsp;Based in the Philippines
+- 🌱 &nbsp;Exploring Minecraft as a platform for AI-enhanced disaster-risk simulation and adaptive education
+- 💼 &nbsp;Open to **internships** and collaborations
+- 💬 &nbsp;Ask me about Python, PyTorch, and shipping products fast
 
-<div align="center">
+### Tech stack
 
-<a href="https://necookie.dev"><img src="https://img.shields.io/badge/🌐_necookie.dev-visit-00FF41?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
-&nbsp;<a href="https://github.com/Necookie"><img src="https://img.shields.io/badge/github/Necookie-source-008F11?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
-&nbsp;<a href="https://www.linkedin.com/in/dheyn-michael-orlanda-35b6b931b/"><img src="https://img.shields.io/badge/LinkedIn-connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
-&nbsp;<a href="mailto:dheyn.main@gmail.com"><img src="https://img.shields.io/badge/Gmail-say_hi-008F11?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
-&nbsp;<a href="https://instagram.com/nkm_119/"><img src="https://img.shields.io/badge/@nkm__119-ig-00FF41?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0d0d0d" height="26"/></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=10">
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=light&perline=10">
+  </picture>
+</p>
 
-</div>
+### Projects
 
-```text
-  🔴  🟡  🟢   necookie@latitude — ls ~/projects — pwsh
- ─────────────────────────────────────────────────────────────────
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>VersaDocs</b><br/>
+      AI document SaaS — Groq · RAG<br/><br/>
+      <a href="https://versadocs.necookie.dev"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2EA44F?style=flat-square&logo=vercel&logoColor=white"></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>PortraCV</b><br/>
+      AI resume &amp; CV builder<br/><br/>
+      <a href="https://portracv.necookie.dev"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2EA44F?style=flat-square&logo=vercel&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>SlotraPH</b><br/>
+      Startup platform — Astro · React<br/><br/>
+      <a href="https://github.com/SlotraPH/slotraph-official-monorepo"><img alt="Source" src="https://img.shields.io/badge/Source-0969DA?style=flat-square&logo=github&logoColor=white"></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>Hub</b><br/>
+      AI personal dashboard<br/><br/>
+      <a href="https://hub.necookie.dev"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2EA44F?style=flat-square&logo=vercel&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
 
-<table width="100%"><tr>
-<td width="50%"><b>versadocs.necookie.dev</b><br/>AI Document SaaS (Groq · RAG)<br/><br/><a href="https://versadocs.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="versadocs"/></a></td>
-<td width="50%"><b>portracv.necookie.dev</b><br/>AI Resume & CV Builder<br/><br/><a href="https://portracv.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="portracv"/></a></td>
-</tr><tr>
-<td width="50%"><b>SlotraPH Platform</b><br/>Startup Platform (Astro · React)<br/><br/><a href="https://github.com/SlotraPH/slotraph-official-monorepo"><img src="https://img.shields.io/badge/→_Repo-008F11?style=flat-square&labelColor=0d0d0d" alt="slotra"/></a></td>
-<td width="50%"><b>hub.necookie.dev</b><br/>AI Personal Dashboard<br/><br/><a href="https://hub.necookie.dev"><img src="https://img.shields.io/badge/→_Launch-00FF41?style=flat-square&labelColor=0d0d0d" alt="hub"/></a></td>
-</tr></table>
+### GitHub stats
 
-```text
-  🔴  🟡  🟢   necookie@latitude — cat /etc/tech-stack.conf — pwsh
- ─────────────────────────────────────────────────────────────────
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark">
+    <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=default" width="46%">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=github_dark">
+    <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=default" width="46%">
+  </picture>
+</p>
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=11" />
-
-</div>
-
-```text
-  🔴  🟡  🟢   necookie@latitude — htop — github_stats
- ─────────────────────────────────────────────────────────────────
-```
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necookie&theme=github_dark" width="98%" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necookie&theme=github_dark" width="32%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Necookie&theme=github_dark" width="32%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Necookie&theme=github_dark" width="32%" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=Necookie&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=008F11&currStreakNum=00FF41&sideNums=008F11&dates=008F11&border=00FF41&border_radius=6&stroke=0d0d0d" width="48%" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Necookie&theme=github_dark&utcOffset=8" width="48%" />
-
-</div>
-
-```text
-  🔴  🟡  🟢   necookie@latitude — exit — pwsh
- ─────────────────────────────────────────────────────────────────
-  > "Build LLMs. Ship products. Repeat until profitable." 🚀
-  > thesis: Minecraft as a platform for AI-enhanced disaster-risk simulation and adaptive educational preparedness.
-  [Process completed]
-```
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=2000&color=008F11&background=0D0D0D00&center=true&vCenter=true&width=420&height=22&lines=Powered+by+caffeine+%E2%98%95+cats+%F0%9F%90%B1+and+ambition+%F0%9F%9A%80" />
-</div>
+<p align="center"><i>Powered by caffeine ☕ and curiosity.</i></p>
