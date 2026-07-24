@@ -75,6 +75,12 @@
   <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necookie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+### Contribution graph
+
+<p align="center">
+  <img width="98%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Necookie&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity" />
+</p>
+
 ---
 
 <p align="center"><i>Powered by caffeine ☕ and curiosity.</i></p>
