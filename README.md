@@ -13,6 +13,10 @@
   <a href="https://instagram.com/nkm_119/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=520&lines=Building+LLM+products;Shipping+AI+SaaS+fast;Turning+coffee+into+code+%E2%98%95" />
+</p>
+
 ---
 
 ### About me
