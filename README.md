@@ -75,13 +75,22 @@
 ### GitHub stats
 
 <p align="center">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Necookie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img alt="GitHub streak" height="170" src="https://streak-stats.demolab.com?user=Necookie&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Necookie?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Necookie?style=for-the-badge&logo=github&label=Followers&color=2575fc&labelColor=0d1117"></a>
 </p>
 
 <p align="center">
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necookie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img alt="GitHub streak" height="170" src="https://streak-stats.demolab.com?user=Necookie&theme=tokyonight&hide_border=true" />
+</p>
+
+### Most used languages
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
 ### Contribution graph
@@ -96,12 +105,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Necookie/necookie/output/github-contribution-grid-snake.svg" />
     <img width="98%" alt="Contribution snake" src="https://raw.githubusercontent.com/Necookie/necookie/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-### Trophies
-
-<p align="center">
-  <img width="98%" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Necookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
 
 ### Dev quote of the day
