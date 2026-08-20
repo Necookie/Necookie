@@ -30,12 +30,8 @@
 
 ### About me
 
-- 🤖 &nbsp;AI engineer focused on **LLMs** and **AI SaaS**
-- 🧑‍💻 &nbsp;Co-founder @ **DheKode**
-- 🌏 &nbsp;Based in the Philippines
 - 🌱 &nbsp;Exploring Minecraft as a platform for AI-enhanced disaster-risk simulation and adaptive education
 - 💼 &nbsp;Open to **internships** and collaborations
-- 💬 &nbsp;Ask me about Python, PyTorch, and shipping products fast
 
 ### Tech stack
 
@@ -72,7 +68,7 @@
   </tr>
 </table>
 
-### GitHub stats
+### Activity
 
 <p align="center">
   <a href="https://github.com/Necookie?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Necookie?style=for-the-badge&logo=github&label=Followers&color=2575fc&labelColor=0d1117"></a>
@@ -81,19 +77,6 @@
 <p align="center">
   <img alt="GitHub streak" height="170" src="https://streak-stats.demolab.com?user=Necookie&theme=tokyonight&hide_border=true" />
 </p>
-
-### Most used languages
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-### Contribution graph
 
 <p align="center">
   <img width="98%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Necookie&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity" />
