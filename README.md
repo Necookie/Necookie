@@ -1,5 +1,9 @@
 <!-- Profile README — theme-friendly (works in both light & dark mode) -->
 
+<p align="center">
+  <img src="./assets/header.gif" alt="Header" width="100%" />
+</p>
+
 ```text
       |\      _,,,---,,_
      /,`.-'`'    -.  ;-;;,_    Dheyn · AI Engineer
