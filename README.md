@@ -1,7 +1,7 @@
 <!-- Profile README — theme-friendly (works in both light & dark mode) -->
 
 <p align="center">
-  <img src="./assets/header.gif" alt="Header" width="100%" />
+  <img src="./assets/typing.gif" alt="typing" width="320" />
 </p>
 
 ```text
