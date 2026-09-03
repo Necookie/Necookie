@@ -40,7 +40,46 @@
 ### Tech stack
 
 <p align="center">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,tensorflow,opencv,react,nextjs,astro,tailwind,fastapi,nodejs,postgres,mongodb,redis,supabase,docker,githubactions,linux,git&theme=dark&perline=10">
+  <b>AI & Machine Learning</b><br>
+  <a href="https://pytorch.org" target="_blank"><img src="./assets/icons/pytorch.svg" title="PyTorch" alt="PyTorch" width="38" height="38" /></a> &nbsp;
+  <a href="https://tensorflow.org" target="_blank"><img src="./assets/icons/tensorflow.svg" title="TensorFlow" alt="TensorFlow" width="38" height="38" /></a> &nbsp;
+  <a href="https://huggingface.co" target="_blank"><img src="./assets/icons/hugging-face.svg" title="Hugging Face" alt="Hugging Face" width="38" height="38" /></a> &nbsp;
+  <a href="https://openai.com" target="_blank"><img src="./assets/icons/chatgpt.svg" title="OpenAI / ChatGPT" alt="ChatGPT" width="38" height="38" /></a> &nbsp;
+  <a href="https://claude.ai" target="_blank"><img src="./assets/icons/claude-ai.svg" title="Claude AI" alt="Claude AI" width="38" height="38" /></a> &nbsp;
+  <a href="https://deepseek.com" target="_blank"><img src="./assets/icons/deepseek.svg" title="DeepSeek" alt="DeepSeek" width="38" height="38" /></a> &nbsp;
+  <a href="https://gemini.google.com" target="_blank"><img src="./assets/icons/gemini.svg" title="Google Gemini" alt="Google Gemini" width="38" height="38" /></a>
+</p>
+
+<p align="center">
+  <b>Languages</b><br>
+  <a href="https://www.python.org" target="_blank"><img src="./assets/icons/python.svg" title="Python" alt="Python" width="38" height="38" /></a> &nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="./assets/icons/typescript.svg" title="TypeScript" width="38" height="38" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./assets/icons/javascript.svg" title="JavaScript" width="38" height="38" /></a> &nbsp;
+  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="./assets/icons/bash.svg" title="Bash" alt="Bash" width="38" height="38" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/icons/html5.svg" title="HTML5" width="38" height="38" /></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/icons/css3.svg" title="CSS3" width="38" height="38" /></a>
+</p>
+
+<p align="center">
+  <b>Frameworks & Full-Stack</b><br>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="./assets/icons/fast-api.svg" title="FastAPI" alt="FastAPI" width="38" height="38" /></a> &nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="./assets/icons/nodejs.svg" title="Node.js" width="38" height="38" /></a> &nbsp;
+  <a href="https://react.dev" target="_blank"><img src="./assets/icons/reactjs.svg" title="React" width="38" height="38" /></a> &nbsp;
+  <a href="https://nextjs.org" target="_blank"><img src="./assets/icons/nextjs.svg" title="Next.js" width="38" height="38" /></a> &nbsp;
+  <a href="https://astro.build" target="_blank"><img src="./assets/icons/astro.svg" title="Astro" width="38" height="38" /></a> &nbsp;
+  <a href="https://tailwindcss.com" target="_blank"><img src="./assets/icons/tailwindcss.svg" title="Tailwind CSS" width="38" height="38" /></a>
+</p>
+
+<p align="center">
+  <b>Databases, Cloud & Tools</b><br>
+  <a href="https://www.postgresql.org" target="_blank"><img src="./assets/icons/postgresql.svg" title="PostgreSQL" width="38" height="38" /></a> &nbsp;
+  <a href="https://www.mongodb.com" target="_blank"><img src="./assets/icons/mongodb.svg" title="MongoDB" width="38" height="38" /></a> &nbsp;
+  <a href="https://redis.io" target="_blank"><img src="./assets/icons/redis.svg" title="Redis" width="38" height="38" /></a> &nbsp;
+  <a href="https://supabase.com" target="_blank"><img src="./assets/icons/supabase.svg" title="Supabase" width="38" height="38" /></a> &nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="./assets/icons/docker.svg" title="Docker" width="38" height="38" alt="Docker" /></a> &nbsp;
+  <a href="https://www.linux.org" target="_blank"><img src="./assets/icons/linux.svg" title="Linux" width="38" height="38" alt="Linux" /></a> &nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="./assets/icons/git.svg" title="Git" width="38" height="38" alt="Git" /></a> &nbsp;
+  <a href="https://www.postman.com" target="_blank"><img src="./assets/icons/postman.svg" title="Postman" width="38" height="38" alt="Postman" /></a>
 </p>
 
 ### Contribution snake
