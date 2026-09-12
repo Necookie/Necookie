@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dheyn Michael Orlanda field notes</title>
+  <desc id="desc">A light technical field-note graphic identifying Necookie as an AI Engineer and Software Developer in the Philippines.</desc>
+  <rect width="1200" height="420" fill="#f7f7f2"/>
+  <g stroke="#c9cec6" stroke-width="1">
+    <path d="M40 42H1160M40 378H1160M40 42V378M1160 42V378" fill="none"/>
+    <path d="M40 98H1160M40 322H1160M108 42V378M1040 42V378" fill="none" stroke-dasharray="3 7"/>
+  </g>
+  <g fill="#59615b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">
+    <text x="40" y="27">FIELD NOTES / 01</text>
+    <text x="1020" y="27">NECOOKIE</text>
+    <text x="40" y="405">PHILIPPINES · SYSTEMS / LEARNING / SOFTWARE</text>
+    <text x="1050" y="405">v1.0</text>
+  </g>
+  <g fill="#1e2521" font-family="Arial, Helvetica, sans-serif">
+    <text x="108" y="156" font-size="58" font-weight="700" letter-spacing="-2">Dheyn Michael Orlanda</text>
+    <text x="112" y="205" font-size="23" letter-spacing=".2">AI Engineer &amp; Software Developer</text>
+    <text x="112" y="262" font-size="17">building useful systems where models meet real software</text>
+  </g>
+  <g transform="translate(905 126)" fill="none" stroke="#1e2521" stroke-width="3" stroke-linejoin="round">
+    <path d="M32 70L38 28l29 20c10-4 20-4 30 0l29-20 6 42c10 12 14 27 10 43-6 24-29 40-60 40s-54-16-60-40c-4-16 0-31 10-43z"/>
+    <circle cx="58" cy="91" r="6" fill="#1e2521" stroke="none"/>
+    <circle cx="106" cy="91" r="6" fill="#1e2521" stroke="none"/>
+    <path d="M76 107l6 4 6-4M82 111v8M64 124c11 8 25 8 36 0" stroke-linecap="round"/>
+    <g fill="#c56447" stroke="none">
+      <circle cx="52" cy="62" r="5"/><circle cx="82" cy="69" r="4"/><circle cx="113" cy="61" r="5"/>
+      <circle cx="42" cy="113" r="4"/><circle cx="119" cy="116" r="4"/>
+    </g>
+    <path d="M13 91H0M164 91h-13M82 13V0M82 176v-13" stroke="#c56447" stroke-width="2"/>
+  </g>
+  <g fill="#59615b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing=".8">
+    <text x="112" y="301">[ CO-FOUNDER / DHEKODE ]</text>
+    <text x="928" y="340">NECOOKIE / MARK 01</text>
+  </g>
+</svg>

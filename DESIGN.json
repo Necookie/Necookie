@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-12T00:00:00+08:00",
+  "title": "Design System: Necookie Profile Field Notes",
+  "extensions": {
+    "colorMeta": {
+      "light-paper": { "role": "neutral", "displayName": "Field Paper", "canonical": "oklch(97.5% 0.006 115)", "tonalRamp": ["#1e2521", "#414a43", "#59615b", "#aeb8ae", "#c9cec6", "#e7ece5", "#f7f7f2", "#fbfbf7"] },
+      "dark-paper": { "role": "neutral", "displayName": "Night Paper", "canonical": "oklch(20% 0.012 145)", "tonalRamp": ["#171b18", "#222923", "#414a43", "#59615b", "#7d887f", "#aeb8ae", "#d0d7cf", "#edf1eb"] },
+      "signal-rust-light": { "role": "primary", "displayName": "Signal Rust", "canonical": "oklch(56% 0.13 39)", "tonalRamp": ["#351b12", "#5b2b1d", "#84402c", "#a9533a", "#c56447", "#dc8564", "#edab92", "#f7d7c9"] },
+      "signal-rust-dark": { "role": "primary", "displayName": "Night Signal Rust", "canonical": "oklch(68% 0.12 40)", "tonalRamp": ["#351b12", "#5b2b1d", "#84402c", "#a9533a", "#c56447", "#dc8564", "#edab92", "#f7d7c9"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Identity Display", "purpose": "Full name inside the hero graphic only." },
+      "body": { "displayName": "Working Prose", "purpose": "Concise README notes and research context." },
+      "label": { "displayName": "Field Label", "purpose": "Coordinates, version marks, and diagram metadata." }
+    },
+    "shadows": [],
+    "motion": [],
+    "breakpoints": [
+      { "name": "profile-mobile", "value": "600px", "purpose": "Select dedicated narrow SVG compositions through picture source media conditions." }
+    ]
+  },
+  "components": [],
+  "narrative": {
+    "northStar": "The Maintained Field Notebook",
+    "overview": "A GitHub profile surface built from perimeter rules, margin labels, and original SVG notation. It stays factual and left-aligned, giving pinned repositories room to do their job. Dedicated desktop and mobile SVG compositions are selected by theme and a 600px media condition.",
+    "keyCharacteristics": ["Structured, factual, and spatially calm.", "Original vector notation in place of stock or AI-generated imagery.", "A tiny geometric cookie-cat seal supplies recognition without mascot excess.", "Light and dark modes are separate compositions with matched hierarchy and contrast.", "Desktop and mobile SVGs are separate compositions, selected with theme and a 600px media condition."],
+    "rules": [
+      { "name": "The One Signal Rule", "body": "Signal Rust belongs only to meaningful marks: a geometry, a chart bar, a route, or an arrow. It is not a general highlight color.", "section": "colors" },
+      { "name": "The No Costume Rule", "body": "Monospace never writes the personal narrative. It only records the field-note metadata around it.", "section": "typography" },
+      { "name": "The Flat Evidence Rule", "body": "Everything stays flat and inspectable. No glass, glow, blur, or glossy-card treatment is permitted.", "section": "elevation" }
+    ],
+    "dos": ["Do use the paper, ink, rule, wash, and Signal Rust roles exactly as defined in the frontmatter.", "Do label the thesis map as conceptual and avoid implementation claims it cannot substantiate.", "Do provide paired light and dark SVGs with equivalent readable content and meaningful alt text.", "Do use the dedicated mobile source below 600px, not a shrunken desktop composition."],
+    "donts": ["Don't use profile-README template stacks, giant logo walls, scrolling widgets, contribution snakes, stats badges, quote widgets, watermarked typing GIFs, or social/contact call-to-actions.", "Don't use generic AI imagery, neural brains, glossy cards, gradients, fan art, inflated claims, or job-seeking language.", "Don't render existing Ghibli, soot, or sakura imagery."]
+  }
+}

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Conceptual research map for a Minecraft-based disaster preparedness thesis</title>
+  <desc id="desc">A light diagram showing a conceptual flow from a simulated scenario to player decisions, behavioral signals, explainable model, and actionable insight.</desc>
+  <rect width="1200" height="500" fill="#f7f7f2"/>
+  <g stroke="#c9cec6" stroke-width="1" fill="none">
+    <path d="M40 42H1160M40 458H1160M40 42V458M1160 42V458"/>
+    <path d="M40 114H1160M40 388H1160" stroke-dasharray="3 7"/>
+  </g>
+  <g fill="#59615b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.1">
+    <text x="40" y="27">RESEARCH MAP / CONCEPTUAL</text>
+    <text x="940" y="27">THESIS / WORKING FRAME</text>
+    <text x="40" y="487">A HIGH-LEVEL MAP, NOT AN IMPLEMENTATION CLAIM</text>
+  </g>
+  <g stroke="#28302b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M235 271H295M455 271H515M675 271H735M895 271H955"/>
+    <path d="M285 266l10 5-10 5M505 266l10 5-10 5M665 266l10 5-10 5M945 266l10 5-10 5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(75 176)">
+      <rect width="160" height="190" fill="#e7ece5" stroke="#28302b" stroke-width="2"/>
+      <path d="M35 72l45-26 45 26-45 26zM35 72v45l45 26 45-26V72M80 98v45" fill="none" stroke="#c56447" stroke-width="3"/>
+      <text x="18" y="164" fill="#28302b" font-size="16" font-weight="700">SIMULATED</text><text x="18" y="183" fill="#28302b" font-size="16" font-weight="700">SCENARIO</text>
+    </g>
+    <g transform="translate(295 176)">
+      <rect width="160" height="190" fill="#f7f7f2" stroke="#28302b" stroke-width="2"/>
+      <circle cx="80" cy="74" r="30" fill="none" stroke="#c56447" stroke-width="3"/>
+      <path d="M80 44v60M50 74h60" stroke="#c56447" stroke-width="3"/>
+      <text x="18" y="164" fill="#28302b" font-size="16" font-weight="700">PLAYER</text><text x="18" y="183" fill="#28302b" font-size="16" font-weight="700">DECISIONS</text>
+    </g>
+    <g transform="translate(515 176)">
+      <rect width="160" height="190" fill="#e7ece5" stroke="#28302b" stroke-width="2"/>
+      <path d="M43 104V76M68 104V48M93 104V63M118 104V35" stroke="#c56447" stroke-width="7"/>
+      <path d="M35 110h94" stroke="#28302b" stroke-width="2"/>
+      <text x="18" y="164" fill="#28302b" font-size="16" font-weight="700">BEHAVIORAL</text><text x="18" y="183" fill="#28302b" font-size="16" font-weight="700">SIGNALS</text>
+    </g>
+    <g transform="translate(735 176)">
+      <rect width="160" height="190" fill="#f7f7f2" stroke="#28302b" stroke-width="2"/>
+      <path d="M40 55h80v54H40zM55 82h50M80 55v54" stroke="#c56447" stroke-width="3" fill="none"/>
+      <text x="18" y="164" fill="#28302b" font-size="16" font-weight="700">EXPLAINABLE</text><text x="18" y="183" fill="#28302b" font-size="16" font-weight="700">MODEL</text>
+    </g>
+    <g transform="translate(955 176)">
+      <rect width="160" height="190" fill="#e7ece5" stroke="#28302b" stroke-width="2"/>
+      <path d="M42 101l24-24 20 16 31-39" stroke="#c56447" stroke-width="4" fill="none"/>
+      <path d="M42 114h76" stroke="#28302b" stroke-width="2"/>
+      <text x="18" y="164" fill="#28302b" font-size="16" font-weight="700">ACTIONABLE</text><text x="18" y="183" fill="#28302b" font-size="16" font-weight="700">INSIGHT</text>
+    </g>
+  </g>
+  <g fill="#59615b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing=".8">
+    <text x="75" y="144">01 / ENVIRONMENT</text><text x="295" y="144">02 / INTERACTION</text><text x="515" y="144">03 / OBSERVATION</text><text x="735" y="144">04 / INTERPRETATION</text><text x="955" y="144">05 / RESPONSE</text>
+  </g>
+</svg>
