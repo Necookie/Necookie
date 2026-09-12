@@ -1,138 +1,115 @@
 ---
-name: Necookie Profile Field Notes
-description: A theme-aware GitHub profile that reads like a concise engineering notebook.
+name: Necookie Night Desk
+description: A compact GitHub profile built around one quiet anime workspace loop.
 colors:
-  light-paper: "#f7f7f2"
-  dark-paper: "#171b18"
-  light-ink: "#1e2521"
-  dark-ink: "#edf1eb"
-  light-rule: "#c9cec6"
-  dark-rule: "#414a43"
-  signal-rust-light: "#c56447"
-  signal-rust-dark: "#dc8564"
-  light-wash: "#e7ece5"
-  dark-wash: "#222923"
+  midnight-room: "#11152c"
+  indigo-shadow: "#252b58"
+  screen-violet: "#7667db"
+  window-blue: "#708dcc"
+  lamp-amber: "#f0ad69"
+  pale-ink: "#eef0f7"
 typography:
-  display:
-    fontFamily: "Arial, Helvetica, sans-serif"
-    fontSize: "58px"
-    fontWeight: 700
-    lineHeight: 1
-    letterSpacing: "-2px"
   body:
-    fontFamily: "Arial, Helvetica, sans-serif"
-    fontSize: "17px"
+    fontFamily: "-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+    fontSize: "16px"
     fontWeight: 400
-    lineHeight: 1.45
+    lineHeight: 1.5
     letterSpacing: "normal"
-  label:
-    fontFamily: "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-    fontSize: "12px"
-    fontWeight: 400
-    lineHeight: 1.2
-    letterSpacing: "0.8px"
+  title:
+    fontFamily: "-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+    fontSize: "32px"
+    fontWeight: 600
+    lineHeight: 1.25
+    letterSpacing: "-0.4px"
 spacing:
-  edge: "40px"
-  note: "56px"
-  section: "72px"
+  compact: "16px"
+  section: "24px"
+  major: "32px"
 components:
-  field-note-graphic:
-    backgroundColor: "{colors.light-paper}"
-    textColor: "{colors.light-ink}"
-    typography: "{typography.display}"
-    padding: "40px"
-  research-map-graphic:
-    backgroundColor: "{colors.light-paper}"
-    textColor: "{colors.light-ink}"
-    typography: "{typography.label}"
-    padding: "40px"
+  anime-header:
+    backgroundColor: "{colors.midnight-room}"
+    textColor: "{colors.pale-ink}"
+    width: "680px"
 ---
 
-# Design System: Necookie Profile Field Notes
+# Design System: Necookie Night Desk
 
 ## 1. Overview
 
-**Creative North Star: "The Maintained Field Notebook"**
+**Creative North Star: "The Quiet Night Shift"**
 
-This is a brand surface inside GitHub, designed for a visitor who is scanning between repositories and wants a fast, credible read on the person behind them. A defined perimeter, field labels, and deliberate diagram notation do the visual work. The page stays left-aligned because GitHub is the environment, not a canvas to overpower.
+The profile opens with one compact anime scene: a developer at a calm desk after dark, with a monitor glow and warm task light. The illustration provides personality while the Markdown carries every factual claim. The rest of the page stays plain, short, and native to GitHub.
 
-The system is deliberately quiet. It rejects profile-README template stacks, giant logo walls, scrolling widgets, contribution snakes, stats badges, quote widgets, watermarked typing GIFs, and social/contact call-to-actions. It also rejects generic AI imagery, neural brains, glossy cards, gradients, fan art, inflated claims, and job-seeking language.
+The design rejects oversized identity banners, fake interface copy, cyberpunk AI clichés, neural brains, holograms, glossy cards, logo walls, and decorative widgets. Motion is a small environmental detail, not a performance.
 
 **Key Characteristics:**
-- Structured, factual, and spatially calm.
-- Original vector notation in place of stock or AI-generated imagery.
-- A tiny geometric cookie-cat seal supplies recognition without mascot excess.
-- Light and dark modes are separate compositions with matched hierarchy and contrast.
-- Desktop and mobile SVGs are separate compositions, selected with theme and a 600px media condition.
+- One 3:1 anime header displayed at a restrained 680px maximum width.
+- A quiet navy and indigo room balanced by a small amber light.
+- No text, logos, badges, or slogans baked into the artwork.
+- A three-second ambient loop with a static reduced-motion fallback.
 
 ## 2. Colors
 
-The palette behaves like paper, ink, drafting rules, and one small signal color.
+The palette comes from a late-night room lit by a monitor and one desk lamp.
 
 ### Primary
-- **Signal Rust:** Reserved for the tiny cookie-cat seal, diagram glyphs, and directional accents. It never becomes a surface or a decorative wash.
+- **Screen Violet:** A limited cool accent for the monitor glow.
+
+### Secondary
+- **Lamp Amber:** A small warm counterpoint around the desk lamp and city windows.
 
 ### Neutral
-- **Paper:** The calm field behind the light artwork; the dark counterpart is a soft charcoal-green rather than pure black.
-- **Ink:** High-contrast copy and structural lines in both themes.
-- **Rule and Wash:** Subordinate grid lines and alternating diagram fills that organize without reading as cards.
+- **Midnight Room:** The dominant navy-black scene without using pure black.
+- **Indigo Shadow:** The softer structural dark used across furniture and the background.
+- **Pale Ink:** The light neutral inherited from GitHub copy and highlights.
 
 ### Named Rules
-**The One Signal Rule.** Signal Rust belongs only to meaningful marks: a geometry, a chart bar, a route, or an arrow. It is not a general highlight color.
+**The Two-Light Rule.** The image has only two visual signals: cool screen light and warm lamp light. No extra neon colors are allowed.
 
 ## 3. Typography
 
-**Display Font:** Arial, Helvetica, sans-serif
-**Body Font:** Arial, Helvetica, sans-serif
-**Label/Mono Font:** ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
+**Display Font:** GitHub’s native system sans stack
+**Body Font:** GitHub’s native system sans stack
 
-**Character:** Direct system text, not a simulated terminal. The sans carries names and explanations; the monospace face acts only as a margin label and measurement language.
+**Character:** Typography stays outside the artwork and follows GitHub’s interface. The profile should read like a person wrote it directly in the repository.
 
 ### Hierarchy
-- **Display** (700, 58px, 1): Used once in the identity graphic for the full name.
-- **Headline** (700, 16px, 1.2): Used inside research-map stages to make each node scannable.
-- **Body** (400, 17px, 1.45): Used for README notes, with paragraphs kept comfortably short.
-- **Label** (400, 12px, 0.8px tracking, uppercase): Used for graphic metadata, versioning, and diagram coordinates.
+- **Title** (600, GitHub H1 scale, 1.25): The full name appears once below the banner.
+- **Body** (400, GitHub body scale, 1.5): Short factual paragraphs with no marketing filler.
+- **Research title** (700, blockquote): The thesis is the only long emphasized line.
 
 ### Named Rules
-**The No Costume Rule.** Monospace never writes the personal narrative. It only records the field-note metadata around it.
+**The Markdown Owns Meaning Rule.** Generated imagery never carries names, claims, code, slogans, or labels.
 
 ## 4. Elevation
 
-This system uses no shadows. Depth comes from the outer frame, quiet drafting rules, and alternating flat washes in the research map. If an element needs attention, it earns it through placement, weight, or the signal color, never simulated elevation.
+The README uses no interface shadows or stacked surfaces. The illustration has painted depth from ambient lighting, while the document itself remains flat and native to GitHub.
 
 ### Named Rules
-**The Flat Evidence Rule.** Everything stays flat and inspectable. No glass, glow, blur, or glossy-card treatment is permitted.
+**The One Scene Rule.** Only the anime header creates atmosphere. No additional illustrated cards or decorative panels follow it.
 
 ## 5. Components
 
-### Cards / Containers
-- **Corner Style:** Square, no radius.
-- **Background:** Paper or dark paper, with a restrained wash only for alternate diagram stages.
-- **Shadow Strategy:** None.
-- **Border:** A single ink perimeter and optional fine drafting rules.
-- **Internal Padding:** A 40px graphic edge, scaled naturally by the SVG viewBox.
+### Anime Header
+- **Shape:** A plain 3:1 rectangle with no rounded frame.
+- **Size:** 900×300 source pixels, displayed at 680px maximum width.
+- **Motion:** Three-second loop limited to monitor glow, lamp breathing, cursor blink, and distant window twinkles.
+- **Fallback:** A matching static PNG is selected for reduced-motion users.
 
-### Navigation
-- **Style:** None. The README relies on GitHub navigation and simple Markdown section headings.
-
-### Field-Note Graphic
-The profile identity graphic has wide and narrow compositions. The desktop version uses an outer perimeter, dashed datum lines, descriptive margins, and an original cookie-cat seal. The mobile version stacks the name, role, thesis-oriented systems note, seal, and affiliation labels. Both respond to theme choice with separate source SVGs rather than inverted CSS.
-
-### Research Map
-The research graphic is a five-stage conceptual flow. The desktop version reads left to right; the mobile version turns the same stages into a vertical field-note flow. Every stage has a number, text label, distinct glyph, and connecting arrow, so its sequence remains legible without color.
+### Content Sections
+- **Structure:** Native Markdown headings, two short paragraphs, one thesis blockquote, and one compact tools table.
+- **Spacing:** GitHub defaults. No manual separator graphics or ornamental dividers.
 
 ## 6. Do's and Don'ts
 
 ### Do:
-- **Do** use the paper, ink, rule, wash, and Signal Rust roles exactly as defined in the frontmatter.
-- **Do** keep profile content left-aligned, short, and specific to actual work.
-- **Do** label the thesis map as conceptual and avoid implementation claims it cannot substantiate.
-- **Do** provide paired light and dark SVGs with equivalent readable content and meaningful alt text.
-- **Do** use the dedicated mobile source below 600px, not a shrunken desktop composition.
+- **Do** keep the header compact and visually secondary to the profile content.
+- **Do** keep animation environmental, slow, and information-free.
+- **Do** preserve the static reduced-motion fallback and meaningful alt text.
+- **Do** keep factual text in Markdown where it remains accessible and editable.
 
 ### Don't:
-- **Don't** use profile-README template stacks, giant logo walls, scrolling widgets, contribution snakes, stats badges, quote widgets, watermarked typing GIFs, or social/contact call-to-actions.
-- **Don't** use generic AI imagery, neural brains, glossy cards, gradients, fan art, inflated claims, or job-seeking language.
-- **Don't** render existing Ghibli, soot, or sakura imagery.
-- **Don't** use a colored side stripe, rounded SaaS cards, pure black, pure white, or decorative glass effects.
+- **Don't** use oversized identity banners, fake interface copy, cyberpunk AI clichés, neural brains, holograms, glossy cards, or logo walls.
+- **Don't** add readable text, badges, trademarks, or motivational slogans inside the illustration.
+- **Don't** add bouncing, zooming, flashing, or high-density particle animation.
+- **Don't** use profile statistics, contribution snakes, quote widgets, or job-seeking language.
