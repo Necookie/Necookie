@@ -14,7 +14,7 @@
     },
     "shadows": [],
     "motion": [
-      { "name": "ambient-loop", "value": "3000ms linear, 24 frames", "purpose": "Low-amplitude monitor, lamp, cursor, and city-light changes only." }
+      { "name": "character-ambient-loop", "value": "3840ms linear, 32 frames", "purpose": "Slow hair sway, one natural blink, and low-amplitude monitor, lamp, cursor, and city-light changes." }
     ],
     "breakpoints": [
       { "name": "header-max", "value": "680px" }

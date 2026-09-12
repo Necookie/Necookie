@@ -46,7 +46,7 @@ The design rejects oversized identity banners, fake interface copy, cyberpunk AI
 - One 3:1 anime header displayed at a restrained 680px maximum width.
 - A quiet navy and indigo room balanced by a small amber light.
 - No text, logos, badges, or slogans baked into the artwork.
-- A three-second ambient loop with a static reduced-motion fallback.
+- A roughly four-second character-and-room loop with a static reduced-motion fallback.
 
 ## 2. Colors
 
@@ -93,7 +93,7 @@ The README uses no interface shadows or stacked surfaces. The illustration has p
 ### Anime Header
 - **Shape:** A plain 3:1 rectangle with no rounded frame.
 - **Size:** 900×300 source pixels, displayed at 680px maximum width.
-- **Motion:** Three-second loop limited to monitor glow, lamp breathing, cursor blink, and distant window twinkles.
+- **Motion:** Roughly four-second loop with slow hair sway, one natural blink, monitor glow, lamp breathing, cursor blink, and distant window twinkles.
 - **Fallback:** A matching static PNG is selected for reduced-motion users.
 
 ### Content Sections
@@ -104,7 +104,7 @@ The README uses no interface shadows or stacked surfaces. The illustration has p
 
 ### Do:
 - **Do** keep the header compact and visually secondary to the profile content.
-- **Do** keep animation environmental, slow, and information-free.
+- **Do** keep the hair movement slow, the blink natural, and all animation information-free.
 - **Do** preserve the static reduced-motion fallback and meaningful alt text.
 - **Do** keep factual text in Markdown where it remains accessible and editable.
 
